@@ -1,4 +1,4 @@
-# course-project
+# Analysis Data Set
 Getting-and-Cleaning-Data-Week-4-Assignment
 This repository containst the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
